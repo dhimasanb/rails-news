@@ -51,6 +51,8 @@ group :development do
   gem 'devise', '~> 4.2'
   # Bootstrap sass-rails
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+  # Acts as votable
+  gem 'acts_as_votable', '~> 0.10.0'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
