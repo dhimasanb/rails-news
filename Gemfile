@@ -53,6 +53,8 @@ group :development do
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
   # Acts as votable
   gem 'acts_as_votable', '~> 0.10.0'
+  # Simple Form
+  gem 'simple_form', '~> 3.4'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
