@@ -55,6 +55,8 @@ group :development do
   gem 'acts_as_votable', '~> 0.10.0'
   # Simple Form
   gem 'simple_form', '~> 3.4'
+  # Record Tag Helper
+  gem 'record_tag_helper', '~> 1.0'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
