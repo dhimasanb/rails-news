@@ -1,24 +1,22 @@
-# README
+# Rails Web News
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple Web News similar Reddit, Hacker News based on Rails 5 with SQLite
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+* [Ruby on Rails 5](rubyonrails.org) - The web framework used
+* [Bundler](http://bundler.io/) - Dependency Management
+* [SQLite](https://www.sqlite.org/) - Database System
+* [Puma](https://rubygems.org/gems/puma) - Simple Rails Web Server
+* [Haml](https://rubygems.org/gems/haml) - Abstraction Markup Language
+* [Bootstrap SASS](https://rubygems.org/gems/bootstrap-sass) - Most Popular CSS Framework
+* [Simple Form](https://rubygems.org/gems/simple_form) - Create Easy Form
+* [Devise](https://rubygems.org/gems/devise) - Flexible Auth with Warden
+* [Acts as Votable](https://rubygems.org/gems/acts_as_votable/versions/0.10.0) - Allowing Records to be Votable
+* [Record Tag Helper](https://rubygems.org/gems/record_tag_helper/versions/1.0.0) - ActionView Record Tag Helpers
 
-* System dependencies
 
-* Configuration
+## Thanks
+Thanks to **[Mackenzie Child](https://github.com/mackenziechild/)**
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Tutorial : **https://www.youtube.com/watch?v=7-1HCWbu7iU&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=1**
